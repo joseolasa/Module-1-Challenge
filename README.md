@@ -45,3 +45,15 @@ I recommend Square expand by buying Clear Secure, the biometric verification com
 ### Leveraging Clear’s biometric technology and Square’s payment processing.
 Currently, Clear’s biometric services are used at airports around the country to verify travelers and at major events, baseball games, and concerts,  to speed up the entry of clear’s subscribers. A user could buy a product with their thumbprint or retinal scan. This would be similar to Apple pay’s system; however, it would not require the user to carry anything. 
 This would benefit Square by expanding its product offering, providing them a completely differentiated experience from other payment processors.
+
+
+## Websites Used 
+1. [Statista](https://www.statista.com/topics/3242/square/#topicHeader__wrapper)
+2. [Crunchbase](https://www.crunchbase.com/funding_round/square-series-e--2346cba0)
+3. [SEC BLOCK 10-Q](https://www.sec.gov/Archives/edgar/data/1512673/000162828022021091/sq-20220630.htm)
+4. [SEC BLOCK 10-K](https://www.sec.gov/Archives/edgar/data/1512673/000162828022003825/sq-20211231.htm)
+5. [CSImarket](https://csimarket.com/stocks/compet_glance.php?code=SQ#:~:text=Due%20to%20outstanding%20performance%20in,share%2C%20to%20approximate%2048.91%20%25.)
+6. [Producthabits](https://producthabits.com/how-square-became-a-30-billion-company-by-reimagining-payments/#:~:text=In%202009%2C%20Square%20was%20launched,prohibitively%20expensive%20merchant%20services%20fees.)
+7. [Stackshare](https://stackshare.io/square/square)
+8. [Slintel](https://www.slintel.com/tech/pos-systems/square-market-share)
+9. [Nasdaq](https://www.nasdaq.com/articles/heres-why-afterpay-makes-square-even-more-unstoppable-2021-10-16#:~:text=In%20an%20investor%20presentation%20last,for%20attacking%20this%20revenue%20opportunity.)
